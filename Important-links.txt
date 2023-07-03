@@ -1,0 +1,5 @@
+
+Excel:        https://excel-practice-online.com
+SQL:          https://www.w3schools.com/sql/
+PowerBI:  https://www.datacamp.com/courses/introduction-to-power-bi
+Python:    https://www.learnpython.org
